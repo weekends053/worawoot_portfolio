@@ -47,7 +47,7 @@ const data = {
         "ig" : "im.billyz",
         "line" : "bew_wrp",
         "email" : "614259053@webmail.npru.ac.th",
-        "phone" : "0955896970"
+        "phone" : "095-5896970"
     }
 };
 module.exports = data;
